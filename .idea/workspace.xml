@@ -2,85 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b445c889-b2b8-4753-82f0-95e4d7dc6f8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/netty.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.20.Final-javadoc.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.20.Final-sources.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/netty-all-4.1.20.Final.jar" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/nettyPro.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/bio/BIOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/buf/NettyBuf01.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/buf/NettyBuf02.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/groupchat/GroupChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/groupchat/GroupChatClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/groupchat/GroupChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/groupchat/GroupChatServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/http/TestHttpServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/http/TestServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/http/TestServerInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/simple/NettyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/simple/NettyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/simple/NettyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/simple/NettyServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/BasicBuffer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/MappedByteBufferTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/NioClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/NioFileChannel03.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/NioFileChannel04.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/NioFileChannelRead.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/NioFileChannelWrite.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/NioServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/ScatteringAndGatheringTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/groupchat/GroupChatClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/groupchat/GroupChatServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/zerocopy/NewNIOClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/nio/zerocopy/NewNIOServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/META-INF/nettyPro.kotlin_module" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/bio/BIOServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/bio/BIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/buf/NettyBuf01.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/buf/NettyBuf02.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/groupchat/GroupChatClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/groupchat/GroupChatClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/groupchat/GroupChatClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/groupchat/GroupChatServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/groupchat/GroupChatServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/groupchat/GroupChatServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/http/TestHttpServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/http/TestServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/http/TestServerInitializer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/simple/NettyClient$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/simple/NettyClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/simple/NettyClientHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/simple/NettyServer$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/simple/NettyServer$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/simple/NettyServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/simple/NettyServerHandler$1.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/simple/NettyServerHandler$2.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/netty/simple/NettyServerHandler.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/BasicBuffer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/MappedByteBufferTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/NioClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/NioFileChannel03.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/NioFileChannel04.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/NioFileChannelRead.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/NioFileChannelWrite.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/NioServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/ScatteringAndGatheringTest.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/groupchat/GroupChatClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/groupchat/GroupChatServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/zerocopy/NewNIOClient.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/com/zsy/nio/zerocopy/NewNIOServer.class" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/test-classes/Test.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -277,14 +199,30 @@
       <workItem from="1586670725099" duration="18646000" />
       <workItem from="1586763778042" duration="3733000" />
       <workItem from="1587016214649" duration="5740000" />
-      <workItem from="1587107110592" duration="4169000" />
+      <workItem from="1587107110592" duration="4417000" />
     </task>
+    <task id="LOCAL-00001" summary="myNetty">
+      <created>1587120272954</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1587120272954</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="myNetty" />
+    <option name="LAST_COMMIT_MESSAGE" value="myNetty" />
+  </component>
   <component name="WindowStateProjectService">
+    <state x="555" y="165" width="802" height="675" key="#Notifications" timestamp="1587120346882">
+      <screen x="0" y="0" width="1920" height="1008" />
+    </state>
+    <state x="555" y="165" width="802" height="675" key="#Notifications/0.0.1920.1008@0.0.1920.1008" timestamp="1587120346882" />
     <state x="555" y="165" width="802" height="675" key="#Project_Structure" timestamp="1587119253543">
       <screen x="0" y="0" width="1920" height="1008" />
     </state>
@@ -309,6 +247,10 @@
       <screen x="0" y="0" width="1920" height="1008" />
     </state>
     <state x="740" y="318" width="526" height="482" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1008@0.0.1920.1008" timestamp="1586672719120" />
+    <state x="526" y="101" width="859" height="803" key="CommitChangelistDialog2" timestamp="1587120272866">
+      <screen x="0" y="0" width="1920" height="1008" />
+    </state>
+    <state x="526" y="101" width="859" height="803" key="CommitChangelistDialog2/0.0.1920.1008@0.0.1920.1008" timestamp="1587120272866" />
     <state width="445" height="466" key="DebuggerActiveHint" timestamp="1586769262092">
       <screen x="0" y="0" width="1920" height="1008" />
     </state>
@@ -373,10 +315,10 @@
       <screen x="0" y="0" width="1920" height="1008" />
     </state>
     <state x="601" y="456" width="803" height="206" key="com.intellij.jarRepository.RepositoryAttachDialog-DOWNLOAD/0.0.1920.1008@0.0.1920.1008" timestamp="1586671229153" />
-    <state x="731" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587120185415">
+    <state x="731" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587120357592">
       <screen x="0" y="0" width="1920" height="1008" />
     </state>
-    <state x="731" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1008@0.0.1920.1008" timestamp="1587120185415" />
+    <state x="731" y="424" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1008@0.0.1920.1008" timestamp="1587120357592" />
     <state x="619" y="220" width="672" height="678" key="search.everywhere.popup" timestamp="1586246142731">
       <screen x="0" y="0" width="1920" height="1008" />
     </state>
