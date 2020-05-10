@@ -2,16 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b445c889-b2b8-4753-82f0-95e4d7dc6f8b" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/inboundhandlerandoutboundhandler/MYServerHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/inboundhandlerandoutboundhandler/MyByteToLongDecoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/inboundhandlerandoutboundhandler/MyClient.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/inboundhandlerandoutboundhandler/MyClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/inboundhandlerandoutboundhandler/MyClientInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/inboundhandlerandoutboundhandler/MyLongToByteEncoder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/inboundhandlerandoutboundhandler/MyServer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/inboundhandlerandoutboundhandler/MyServerInitializer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/zsy/netty/codec/Student.proto" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/zsy/netty/codec/Student.proto" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -221,7 +212,7 @@
       <workItem from="1588489147316" duration="2620000" />
       <workItem from="1588666458244" duration="5426000" />
       <workItem from="1589014329821" duration="769000" />
-      <workItem from="1589121568933" duration="646000" />
+      <workItem from="1589121568933" duration="992000" />
     </task>
     <task id="LOCAL-00001" summary="myNetty">
       <created>1587120272954</created>
@@ -244,7 +235,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588489275108</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="myNetty">
+      <created>1589123725289</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1589123725290</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,10 +285,10 @@
       <screen x="0" y="0" width="1920" height="1008" />
     </state>
     <state x="740" y="318" width="526" height="482" key="#com.intellij.util.ui.classpath.ChooseLibrariesDialog/0.0.1920.1008@0.0.1920.1008" timestamp="1586672719120" />
-    <state x="526" y="101" width="859" height="803" key="CommitChangelistDialog2" timestamp="1588489274847">
+    <state x="526" y="101" width="859" height="803" key="CommitChangelistDialog2" timestamp="1589123724702">
       <screen x="0" y="0" width="1920" height="1008" />
     </state>
-    <state x="526" y="101" width="859" height="803" key="CommitChangelistDialog2/0.0.1920.1008@0.0.1920.1008" timestamp="1588489274847" />
+    <state x="526" y="101" width="859" height="803" key="CommitChangelistDialog2/0.0.1920.1008@0.0.1920.1008" timestamp="1589123724702" />
     <state width="445" height="466" key="DebuggerActiveHint" timestamp="1586769262092">
       <screen x="0" y="0" width="1920" height="1008" />
     </state>
